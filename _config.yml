@@ -1,0 +1,47 @@
+title:            Christophe Uberri
+description:      My personal page. Built with Jekyll. Based on Mu-An Chiou's theme
+url:              http://christophe.uberri.net
+signoff:          Christophe Uberri
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links: 
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          http://blog.uberri.net
+  - name:         Email
+    url:          mailto:christophe@uberri.net
+  - name:         GitHub
+    url:          http://github.com/cuberri
+  - name:         Twitter
+    url:          http://twitter.com/cuberri
+  - name:         LinkedIn
+    url:          http://www.linkedin.com/in/uberri
+
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
+
+myposts:
+  - title:        Mise en place de fail2ban
+    date:         2013-05-12 20:36:48
+    url:          http://blog.uberri.net/post/50249783647/mise-en-place-de-fail2ban
+  - title:        Souci d’install Postgresql 8.4 sur Debian Squeeze
+    date:         2013-04-30 23:14:51
+    url:          http://blog.uberri.net/post/49222099321/souci-dinstall-postgresql-8-4-sur-debian-squeeze
+  - title:        Comment recruter à tous les coups en 3 lignes
+    date:         2013-03-13 19:59:26
+    url:          http://blog.uberri.net/post/49220555856/recruter-en-3-lignes
+  - title:        Ceylon, notes et réflexions
+    date:         2012-04-15 22:15:17
+    url:          http://blog.uberri.net/post/49220557218/notes-episode-56-castcodeurs-sur-ceylon
+  - title:        De la perte des fondamentaux
+    date:         2011-11-23 15:27:32
+    url:          http://blog.uberri.net/post/49220558716/de-la-bonne-utilisation-du-bytecode-enhanceme
+  - title:        Retour du Lyon JUG 17 mai 2011 - Amazon WS
+    date:         2011-05-24 22:27:32
+    url:          http://blog.uberri.net/post/49220560857/2011-05-retour-personnel-sur-la-session-du-lyon-html
