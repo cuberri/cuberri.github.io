@@ -27,6 +27,9 @@ rdiscount:
   extensions:     [smart]
 
 myposts:
+  - title:        Jouer avec Rok4 et FastCGI
+    date:         2013-07-14 22:38:12
+    url:          http://blog.uberri.net/post/55452501813/jouer-avec-rok4-et-fastcgi
   - title:        Mise en place de fail2ban
     date:         2013-05-12 20:36:48
     url:          http://blog.uberri.net/post/50249783647/mise-en-place-de-fail2ban
