@@ -1,5 +1,5 @@
 title:            Christophe Uberri
-description:      My personal page. Built with Jekyll. Based on Mu-An Chiou's theme
+description:      My personal page. Built with Jekyll. Based on Mu-An Chiou's Scribble theme
 url:              http://christophe.uberri.net
 signoff:          Christophe Uberri
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -27,6 +27,9 @@ rdiscount:
   extensions:     [smart]
 
 myposts:
+  - title:        Une stratégie simple de gestion de changelog avec Mercurial
+    date:         2014-06-02 10:02:37
+    url:          http://blog.uberri.net/post/84502464541/une-strategie-simple-de-gestion-de-changelog-avec
   - title:        Jouer avec Rok4 et FastCGI
     date:         2013-07-14 22:38:12
     url:          http://blog.uberri.net/post/55452501813/jouer-avec-rok4-et-fastcgi
