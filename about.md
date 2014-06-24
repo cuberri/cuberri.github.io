@@ -10,6 +10,6 @@ Polyglot-* advocate.
 
 Sometimes [tweet](http://twitter.com/cuberri) and occasionnaly [write notes and thoughts](http://blog.uberri.net).
 
-Currently having fun in an awesome ops team, automating things and talking to humans.
+Currently having fun in an awesome (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
 
 Oh, and I love it :)
