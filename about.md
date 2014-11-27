@@ -6,7 +6,7 @@ Software engineer, Lyon, France.
 
 Object-oriented developer, multi-paradigm learner. Static practitioner, dynamic enthusiast.
 
-Polyglot-* advocate.
+Devops advocate, human/people-centric. Lean apprentice.
 
 Sometimes [tweet](http://twitter.com/cuberri) and occasionnaly [write notes and thoughts](http://blog.uberri.net).
 
