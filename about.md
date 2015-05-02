@@ -10,6 +10,8 @@ Devops advocate, human/people-centric. Lean apprentice.
 
 Sometimes [tweet](http://twitter.com/cuberri) and occasionnaly [write notes and thoughts](http://blog.uberri.net).
 
-Currently having fun in an awesome (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
+I'm having fun in an awesome (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
 
 Oh, and I love it :)
+
+**Current status :** *out of the world for a while, coming back soon.*
