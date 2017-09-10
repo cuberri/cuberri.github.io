@@ -2,16 +2,16 @@
 layout: page
 ---
 
-Software engineer, Lyon, France.
+Software engineer, Wellington, New-Zealand.
 
 Object-oriented developer, multi-paradigm learner. Static practitioner, dynamic enthusiast.
 
 Devops advocate, human/people-centric. Lean apprentice.
 
-Sometimes [tweet](http://twitter.com/cuberri) and occasionnaly [write notes and thoughts](http://blog.uberri.net).
+Sometimes [tweet](http://twitter.com/cuberri) and occasionally [write notes and thoughts](http://blog.uberri.net).
 
-I'm having fun in an awesome (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
+I'm having fun in a (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
 
 Oh, and I love it :)
 
-**Current status :** *out of the world for a while, coming back soon.*
+**Current status :** *helping awesome people to do [awesome stuff](https://www.wetafx.co.nz/)*
