@@ -8,9 +8,9 @@ Object-oriented developer, multi-paradigm learner. Static practitioner, dynamic 
 
 Devops advocate, human/people-centric. Lean apprentice.
 
-Sometimes [tweet](http://twitter.com/cuberri) and occasionally [write notes and thoughts](http://blog.uberri.net).
+Sometimes [tweet](http://twitter.com/cuberri) and (very) occasionally [write notes and thoughts](http://blog.uberri.net).
 
-I'm having fun in a (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
+Having fun in a (dev|ops|infra|support) and (coffee|beer) lovers team, automating things and talking to humans.
 
 Oh, and I love it :)
 
