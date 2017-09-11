@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /
   - name:         Blog
-    url:          /blog
+    url:          /blog 
   - name:         Email
     url:          mailto:christophe@uberri.net
   - name:         GitHub
@@ -19,6 +19,8 @@ links:
     url:          http://twitter.com/cuberri
   - name:         LinkedIn
     url:          http://www.linkedin.com/in/uberri
+  - name:         GPG
+    url:          /35F9FE72.txt
 
 pygments:         true
 permalink:        pretty
