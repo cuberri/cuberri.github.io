@@ -8,9 +8,9 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links: 
   - name:         About
-    url:          /about
+    url:          /
   - name:         Blog
-    url:          http://blog.uberri.net
+    url:          /blog
   - name:         Email
     url:          mailto:christophe@uberri.net
   - name:         GitHub
