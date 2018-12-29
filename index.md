@@ -14,6 +14,6 @@ Having fun in a (dev/ops/infra/support) and (coffee/beer) lovers team, automatin
 
 Oh, and I love it :)
 
-**Current status :** helping awesome people to do [awesome stuff](https://www.wetafx.co.nz/)
+**Current status :** helping awesome people to do [awesome stuff](https://www.animallogic.com)
 
 **Current gpg public key:** [35F9FE72](/35F9FE72.txt)
